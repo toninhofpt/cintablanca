@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>google</title>
+	<link rel="stylesheet" href="Styles/styles.css">
+	
+</head>
+<body>
+	    <p id="budy">
+		<p id="hola">Bienvenido</p><img src="/home/fermin/Escritorio/blog/imagen/partida-de-rol.jpg" alt="partida-de-rol"/>
+		<li>
+<div id="principal">Crea el mundo en el que vas a jugar. Dibuja un mapa de tu casa en papel. Luego etiqueta cada habitación para que sea un lugar en particular, por ejemplo, pantano, pueblo, bosque oscuro, lago, montañas, etc. Puedes usar el mismo mundo que encontrarías en juegos de aventuras.
+<p> Juegos de rol</p>
+</div> 
+<div id="galeria">
+
+<div>Las opciones de accion</div>
+<ol>
+<li>ataque</li>
+<li>magia</li>
+</ol>
+</body>
+<script src="/home/fermin/Escritorio/blog/scripts/script.js"></script>
+<script type="text/javascript" src="/home/fermin/Escritorio/blog/scripts/script.js"></script>
+</html>
