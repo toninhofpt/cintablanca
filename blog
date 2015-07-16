@@ -6,15 +6,14 @@
 	<link rel="stylesheet" href="Styles/styles.css">
 	
 </head>
-<body>
-	    <p id="budy">
-		<p id="hola">Bienvenido</p><img src="/home/fermin/Escritorio/blog/imagen/partida-de-rol.jpg" alt="partida-de-rol"/>
-		<li>
+<body id="budy">
+	<p id="budy">Como jugar rol</p>
+	<p id="hola">Bienvenido</p><img src="/home/fermin/Escritorio/blog/imagen/partida-de-rol.jpg" alt="partida-de-rol">
+	<li>Fundamentos</li>
 <div id="principal">Crea el mundo en el que vas a jugar. Dibuja un mapa de tu casa en papel. Luego etiqueta cada habitación para que sea un lugar en particular, por ejemplo, pantano, pueblo, bosque oscuro, lago, montañas, etc. Puedes usar el mismo mundo que encontrarías en juegos de aventuras.
-<p> Juegos de rol</p>
+     <p> Juegos de rol</p>
 </div> 
-<div id="galeria">
-
+<form>Los juegos de rol: son juegos que tomas decisiones y dependiendo tus acciones seran los resultados.</form>
 <div>Las opciones de accion</div>
 <ol>
 <li>ataque</li>
