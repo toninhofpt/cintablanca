@@ -1,2 +1,2 @@
-# cintablanca
-Taller de la cinta blanca 
+# cinta blanca
+Un ejercicio haciendo una pagina de google
